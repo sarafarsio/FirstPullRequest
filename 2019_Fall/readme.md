@@ -36,7 +36,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Erlangga Aekukula Renggana, Erlangga
 
-- [ ] Farsio, Sara
+- [X] Farsio, Sara (@sarafarsio)
 
 - [ ] Filatov, Anton
 
